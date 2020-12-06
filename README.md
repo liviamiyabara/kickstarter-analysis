@@ -11,6 +11,7 @@ In the spreadsheet we have the data of Louise’s fundraising campaigns and we w
 ### Analysis of Outcomes Based on Launch Date
 To be able to read the launched date, I converted the Unix timestamps, which measure time as the number of seconds since midnight of January 1, 1970 to the standard date format of month/day/year by using the formula =((( cell with unix timestamp /60)/60)/24)+DATE(1970,1,1). Once that step is done, it was easy to create a pivot chart with the filter of the ‘Parent category’ for ‘theater’, in the rows the ‘Date for created conversion’, on the columns the ‘outcomes’ and for the values the ‘Count of id’.
 ### Analysis of Outcomes Based on Goals
+To avoid entering the ranges line by line for this analysis, instead of putting all the ranges into one cell as a text, I split in 3 different cells and put the numbers in a separate the 
 
 ### Challenges and Difficulties Encountered
 
