@@ -46,3 +46,5 @@ The biggest challenge was to combine the logic of the ranges (less than, between
 
   One suggestion would be to change the chart type for the 'Outcome Based on Goals' to the '100% Stacked Column', this will simplify how the user can see the data:
 ![ScreenShot](https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Screenshots/Chart%20suggestion.png)
+
+Another possible table and chart would be calculating the number of days to complete a campaign and then define ranges and compare the percentage of successful, failed and cancelled. 
