@@ -31,18 +31,18 @@ The biggest challenge was to combine the logic of the ranges (less than, between
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 ![ScreenShot](https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
-In May and June is when a larger amount of theater campaigns is launched and successful, so we could assume those are the best months to announce a new theater campaign. The number of campaigns decreases as we reach the end of the year, in December we have the lowest amount of campaigns released and the lowest successful rate, therefore Louise should avoid priority campaigns in December. 
+  In May and June is when a larger amount of theater campaigns is launched and successful, so we could assume those are the best months to announce a new theater campaign. The number of campaigns decreases as we reach the end of the year, in December we have the lowest amount of campaigns released and the lowest successful rate, therefore Louise should avoid priority campaigns in December. 
 
 - What can you conclude about the Outcomes based on Goals?
 ![ScreenShot](https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
-The percentage of successful campaigns is higher for the lowest 2 tiers (less than 1000 and 1000 to 4999), so campaigns with the goal lower than 5000 have a higher probability to succeed. The campaigns with the high goal ranges of 35000 to 39999 and 40000 to 44999 have a better success rate than the ones between 5000 to 34999, which can indicate other influencing factors besides the goal amount of a campaign.
+  The percentage of successful campaigns is higher for the lowest 2 tiers (less than 1000 and 1000 to 4999), so campaigns with the goal lower than 5000 have a higher probability to succeed. The campaigns with the high goal ranges of 35000 to 39999 and 40000 to 44999 have a better success rate than the ones between 5000 to 34999, which can indicate other influencing factors besides the goal amount of a campaign.
 
 - What are some limitations of this dataset?
 
-If the goal of the analysis is to understand how to create more successful campaigns, one limiting factor could be that the dataset is not including all the relevant criteria that determine that. It would be good to understand from the donators what are the criteria that influence their decision (i.e. the method of communication: magazine, website, mail, social media) and include those factors in the study.
+  If the goal of the analysis is to understand how to create more successful campaigns, one limiting factor could be that the dataset is not including all the relevant criteria that determine that. It would be good to understand from the donators what are the criteria that influence their decision (i.e. the method of communication: magazine, website, mail, social media) and include those factors in the study.
 
 - What are some other possible tables and/or graphs that we could create?
 
-One suggestion would be to change the chart type for the 'Outcome Based on Goals' to the '100% Stacked Column', this will simplify how the user can see the data:
+  One suggestion would be to change the chart type for the 'Outcome Based on Goals' to the '100% Stacked Column', this will simplify how the user can see the data:
 ![ScreenShot](https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Screenshots/Chart%20suggestion.png)
