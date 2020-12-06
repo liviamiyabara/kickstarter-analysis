@@ -18,9 +18,8 @@ Then for the COUNTIFS formula, in the goal range criteria I’ve used the quotes
 For the 'Number failed’ and ‘Number cancelled’, I copied the same formulas for the ‘Number Successful’ and used the CTRL+H shortcut for the replacement, I changed ‘successful’ for ‘failed’ and ‘canceled’ for the selected rows to  update the right conditions to the formula. 
 Then the last steps were easier, just using the sum formula and dividing the cells to get to the percentage.
 
-
 ### Challenges and Difficulties Encountered
-
+The biggest challenge was to combine the logic of the ranges (less than, between, greater than) with cells to automate the analysis of the ‘Outcomes Based on Goals’, it would be time consuming if I’ve had to write a specific formula to each row of the Number of successful campaigns. This was accomplished by combining quote sign for less than (“<”), between (“>=” and “<=”), greater than (“>”) with the “&” to refer back to a cell. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
