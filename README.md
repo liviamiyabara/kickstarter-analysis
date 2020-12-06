@@ -28,6 +28,7 @@ The biggest challenge was to combine the logic of the ranges (less than, between
 In May and June is when a larger amount of theater campaigns is launched and successful, so we could assume those are the best months to announce a new theater campaign. The number of campaigns decreases as we reach the end of the year, in December we have the lowest amount of campaigns released and the lowest successful rate, therefore Louise should avoid priority campaigns in December. 
 
 - What can you conclude about the Outcomes based on Goals?
+![ScreenShot](https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
