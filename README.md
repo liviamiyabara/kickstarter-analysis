@@ -5,7 +5,7 @@ Challenge 1
 ## Overview of Project
 
 ### Purpose
-
+In the spreadsheet we have the data of Louise’s fundraising campaigns and we will make an analysis to understand know how different the Theater campaigns fared in relation to their launch dates and their funding goals.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
