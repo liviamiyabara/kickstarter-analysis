@@ -11,7 +11,9 @@ In the spreadsheet we have the data of Louise’s fundraising campaigns and we w
 ### Analysis of Outcomes Based on Launch Date
 To be able to read the launched date, I converted the Unix timestamps, which measure time as the number of seconds since midnight of January 1, 1970 to the standard date format of month/day/year by using the formula =((( cell with unix timestamp /60)/60)/24)+DATE(1970,1,1). Once that step is done, it was easy to create a pivot chart with the filter of the ‘Parent category’ for ‘theater’, in the rows the ‘Date for created conversion’, on the columns the ‘outcomes’ and for the values the ‘Count of id’.
 ### Analysis of Outcomes Based on Goals
-To avoid entering the ranges line by line for this analysis, instead of putting all the ranges into one cell as a text, I split in 3 different cells and put the numbers in a separate the 
+To avoid entering the ranges in the formula line by line for this analysis, instead of using only column A to show all tiers in one cell, I split into 3 columns to make it easier to refer a formula to a specific number. 
+Then for the COUNTIFS formula, in the goal range criteria I’ve used the quotes “” to determine the formula with the ranges: less than (“<”), between (“>=” and “<=”), greater than (“>”). Then I added the “&” to be able to refer to the numbers of those ranges, to enable copying the formula from row 3 to row 12:
+![ScreenShot](https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Screenshots/Screenshot_analysis.png)
 
 ### Challenges and Difficulties Encountered
 
