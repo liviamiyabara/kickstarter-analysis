@@ -9,7 +9,7 @@ In the spreadsheet we have the data of Louise’s fundraising campaigns and we w
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![ScreenShot](Outcomes_vs_Goals.png)
+![ScreenShot](kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
