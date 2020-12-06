@@ -10,7 +10,7 @@ In the spreadsheet we have the data of Louise’s fundraising campaigns and we w
 
 ### Analysis of Outcomes Based on Launch Date
 ![Alt text]https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Outcomes Based on Launch Date")
-![ScreenShot](kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![ScreenShot](https://github.com/liviamiyabara/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
